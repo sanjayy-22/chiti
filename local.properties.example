@@ -1,0 +1,6 @@
+## Copy this file to `local.properties` and fill in your values. Never commit local.properties.
+## Android SDK location (Android Studio normally writes this for you on first open):
+# sdk.dir=C\:\\Users\\sanja\\AppData\\Local\\Android\\Sdk
+## Groq Cloud API key (get one at https://console.groq.com/keys). Optional:
+## you can also paste the key in the app's Settings screen instead of rebuilding.
+# groqApiKey=gsk_...
